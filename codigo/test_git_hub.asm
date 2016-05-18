@@ -2,6 +2,7 @@
 
 ;Falta el autor y el proyecto
 
+;Arranca el código
 .cseg
 .org 0x00
 	rjmp	main
