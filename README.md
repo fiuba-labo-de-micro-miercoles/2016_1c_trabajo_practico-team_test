@@ -1,6 +1,14 @@
 ### Primero que nada
 Ver leeme.txt
 
+###Lista de pendientes
+- [ ] Anteproyecto
+- [ ] Código
+- [X] Diagrama de Flujo
+- [X] Diagrama de Bloques
+- [X] Esquemático
+- [ ] Informe final
+
 ###Anteproyecto
 [Anteproyecto](doc/anteproyecto/anteproyecto.pdf)
 
