@@ -2,7 +2,7 @@
 Ver leeme.txt
 
 ###Lista de pendientes
-- [ ] Anteproyecto
+- [x] Anteproyecto
 - [ ] Código
 - [X] Diagrama de Flujo
 - [X] Diagrama de Bloques
