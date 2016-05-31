@@ -1,9 +1,8 @@
-# profesores
+### Primero que nada
 Ver leeme.txt
 
-Links relativos
-
 ###Anteproyecto
+[Anteproyecto](doc/anteproyecto/anteproyecto.pdf)
 
 ###Diagrama en Bloques
 ![](doc/diagramas/bloques.png)
@@ -12,4 +11,4 @@ Links relativos
 ![](doc/diagramas/flujo.png)
 
 ###Esquemático
-[](/esquematico/esquematico.pdf)
+[Esquematico](esquematico/esquematico.pdf)
